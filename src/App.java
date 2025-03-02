@@ -15,7 +15,7 @@ public class App {
         System.out.println("Poderia me informar sua idade e altura?");
         idade = sc.nextInt();
         altura = sc.nextDouble();
-        System.out.println("Muito bem "+nome+"você tem "+idade+" anos e "+altura+" metros de altura!");
+        System.out.println("Muito bem "+nome+"você tem "+idade+" anos e "+altura+"m de altura!");
 
     }
 }
