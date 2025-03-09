@@ -76,7 +76,84 @@ public class App {
 
         /* Exercício 3 */
 
+        // String senha;
+        // String ga = "programacao";
+
+        // System.out.println("Digite a senha: ");
+        // senha = sc.nextLine();    
+        // if (senha.equals(ga)) {
+        //     System.out.println("Você obteve acesso!");
+        // }else{
+        //     System.out.println("Senha Incorreta!");
+        // }
+
+        /* Exercício 4 */
+
+        // int n1;
+        // System.out.println("Informe um núemro: ");
+        // n1 = sc.nextInt();
+        // if (n1 % 2 == 0) {
+        //     System.out.println("Seu numero é par");
+        // }else if (n1 % 2 != 0) {
+        //     System.out.println("Seu numero é impar");
+        // }
+
+        /* Exercício 5 */
+
+        // int n1, n2;
+
+        // System.out.println("Digite o primeiro número: ");
+        // n1 = sc.nextInt();
+        // System.out.println("Digite o segundo número: ");
+        // n2 = sc.nextInt();
+        // if (n1 > n2) {
+        //     System.out.println("O primeiro número é maior: "+n1);
+        // }else{
+        //     System.out.println("O segundo número é maior: "+n2);
+        // }
         
+        /* Exercício 6 */
+        
+        // int n1;
+        // System.out.println("Digite um número:");
+        // n1 = sc.nextInt();
+        // if (n1 % 5 == 0) {
+        //     System.out.println("Seu número é múltiplo de 5");
+        // }else{
+        //     System.out.println("Seu número não é divisível por 5");
+        // }
+        
+        /* Exercício 7 */
+        
+        // int l1, l2, l3;
+        // System.out.println("Digite o tamanho dos lado do seu triângulo: ");
+        // l1 = sc.nextInt();
+        // l2 = sc.nextInt();
+        // l3 = sc.nextInt();
+        // if (l1 == l2 && l1 == l3 && l2 == l3) {
+        //     //lados iguais 
+        //     System.out.println("Seu triângulo é um equilatero!");
+        // }else if (l1 != l2 && l1 != l3 && l2 != l3 ) {
+        //     //lados diferentes  
+        //     System.out.println("Seu triângulo é escaleno!");
+        // }else{
+        //     //Dois lados iguais 
+        //     System.out.println("Seu triângulo é isóceles");
+        // }
+
+        /* Exercício 8 */
+
+        
+
+
+
+
+
+
+        
+        
+        sc.close();
+
 
     }
 }
