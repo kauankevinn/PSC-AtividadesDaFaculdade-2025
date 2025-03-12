@@ -1,25 +1,11 @@
 import java.util.Scanner; 
 
 public class App {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
        
         Scanner sc = new Scanner(System.in);
 
-        /* Atv - 1 */
-        
-        // int idade;
-        // double altura;
-        // String nome;
-
-        // System.out.println("Digite seu nome e sobrenome: ");
-        // nome = sc.nextLine();
-        // System.out.println("Olá "+nome);
-        // System.out.println("Poderia me informar sua idade e altura?");
-        // idade = sc.nextInt();
-        // altura = sc.nextDouble();
-        // System.out.println("Muito bem "+nome+"você tem "+idade+" anos e "+altura+"m de altura!");
-        
-
+        /* Exercícios de fixação */
 
         /* Exercício 1 */
 
@@ -148,17 +134,12 @@ public class App {
 
         /* Exercício 8 */
 
-        
-
-
-
 
 
 
         
         
         sc.close();
-
 
     }
 }

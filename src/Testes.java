@@ -1,9 +1,11 @@
 import java.util.Scanner;
 
-public class Teste {
+public class Testes {
     public static void main(String[] args) {
        
-        // Scanner scan = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in);
+
+        /* Parte de testes(funções, classes, etc) */
         
         // int n1, n2;
         // int soma, sub, mult;
@@ -33,6 +35,8 @@ public class Teste {
 
         // System.out.println("Primeiro número: " + numeros[1]); // Saída: 10
 
+
+        scan.close();
     }
 
 }
