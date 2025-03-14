@@ -79,8 +79,7 @@ public class Listas {
         // t = (v1+v2+v3)*p;
         // System.out.printf("O total da viagem para %d pessoas fica: R$ %.2f",p,t);
 
-
-
+        
 
         sc.close();
     }

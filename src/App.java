@@ -136,6 +136,90 @@ public class App {
 
 
 
+        /* Exercício 9 */
+
+        // int n1, n2, m;
+        // System.out.println("Digite sua primeira nota: ");
+        // n1 = sc.nextInt();
+        // System.out.println("Digite a sua segunda nota: ");
+        // n2 = sc.nextInt();
+        // m = (n1+n2)/2;
+        // System.out.println("Sua média é: "+m);
+        // if (n1 > 7) {
+        //     System.out.println("Parabens, você foi aprovado!");
+        // }
+
+        /* Exercicio 10 */
+        
+        // int n1, n2, m;
+        // System.out.println("Digite sua primeira nota: ");
+        // n1 = sc.nextInt();
+        // System.out.println("Digite a sua segunda nota: ");
+        // n2 = sc.nextInt();
+        // m = (n1+n2)/2;
+        // System.out.println("Sua média é: "+m);
+        // if (n1 > 7) {
+        //     System.out.println("Parabens, você foi aprovado!");
+        // }else{
+        //     System.out.println("Você foi reprovado!");
+        // }
+
+
+        /* Exercício 11 */
+
+        
+        // int n1, n2;
+        // System.out.println("Digite o primeiro número:");
+        // n1 = sc.nextInt();
+        // System.out.println("Digite o segundo número:");
+        // n2 = sc.nextInt();
+        // if (n1 > n2) { 
+        //     System.out.println("O primeiro número é maior que o segundo");
+        // }else{  
+        //     System.out.println("O segundo número é maior que o segundo");
+        // }
+        // //verificação de números pares e ímpares do n1
+        // if (n1 % 2 == 0) {
+        //     System.out.println("Seu primeiro número é par:"+n1);
+        // }else{
+        //     System.out.println("Seu primero número é ímpar: "+n1);
+        // }
+        // //n2 
+        // if (n2 % 2 == 0) {
+        //     System.out.println("Seu segundo número é par:"+n2);
+        // }else{
+        //     System.out.println("Seu segundo número é ímpar: "+n2);
+        // }
+
+        /* Exercício 12 */
+
+        // String r;
+
+        // System.out.println("Escolha uma das opções:\n Pix\n Pagamento no Débito\n Pagamento no Crédito \n Pagamento em Dinheiro");
+        // r = sc.nextLine();
+        // switch (r) {
+        //     case "Pix":
+        //         System.out.println("Vamos prosseguir para o Pix");
+        //         break;
+        //     case "Pagamento no Debito":
+        //         System.out.println("Vamos prosseguir para o Pagamento em Débito");
+        //         break;
+        //     case "Pagamento no Credito":
+        //         System.out.println("Vamos prosseguir para o Pagamento em Crédito");
+        //         break;
+        //     case "Pagamento em Dinheiro":
+        //         System.out.println("Vamos prosseguir para o Pagamento em Dinheiro");
+        //         break;
+        
+        //     default:System.out.println("Opção inválida!");
+        //         break;
+        // }
+
+        /* Exercício 13 */
+
+        
+
+
 
         
         

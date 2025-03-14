@@ -36,6 +36,13 @@ public class Testes {
         // System.out.println("Primeiro número: " + numeros[1]); // Saída: 10
 
 
+        // double p,km, m;
+        // km = 8000;
+        // m = 0.82;
+        // p = km/m;
+        // System.out.printf("Você deu %.0f passos",p);
+
+
         scan.close();
     }
 
