@@ -1,13 +1,15 @@
 import java.util.Scanner; 
 
-public class App {
+public class EXFixacao {
     public static void main(String[] args) {
        
         Scanner sc = new Scanner(System.in);
 
-        /* Exercícios de fixação */
+                /* Exercícios de fixação */
 
-        /* Exercício 1 */
+                    /* Exercício 1 */
+
+            //Imprime a média dos números além de sortea-lôs. 
 
         // int n1, n2, n3;
         // float m1;
@@ -45,9 +47,11 @@ public class App {
         // }
         // System.out.println("A média dos números é: "+m1);
         
-        
+//--------------------------------------------------------------------------------------------------------
 
-        /* Exercício 2 */  
+                    /* Exercício 2 */  
+
+            //Verifica se o número é maior ou menor que 100.
 
         // double n1;
 
@@ -59,8 +63,11 @@ public class App {
         //     System.out.println("Seu número é menor que 100!");
         // }
         
+//--------------------------------------------------------------------------------------------------------
 
-        /* Exercício 3 */
+                    /* Exercício 3 */
+
+            //Confirmação de senha.
 
         // String senha;
         // String ga = "programacao";
@@ -73,7 +80,11 @@ public class App {
         //     System.out.println("Senha Incorreta!");
         // }
 
-        /* Exercício 4 */
+//--------------------------------------------------------------------------------------------------------
+
+                    /* Exercício 4 */
+
+            //Mostra se número é par ou ímpar.
 
         // int n1;
         // System.out.println("Informe um núemro: ");
@@ -84,7 +95,11 @@ public class App {
         //     System.out.println("Seu numero é impar");
         // }
 
-        /* Exercício 5 */
+//--------------------------------------------------------------------------------------------------------
+
+                    /* Exercício 5 */
+
+            //Mostra qual o maior número.
 
         // int n1, n2;
 
@@ -98,7 +113,11 @@ public class App {
         //     System.out.println("O segundo número é maior: "+n2);
         // }
         
-        /* Exercício 6 */
+//--------------------------------------------------------------------------------------------------------
+
+                    /* Exercício 6 */
+
+            //Mostra se o número é múltiplo de 5.
         
         // int n1;
         // System.out.println("Digite um número:");
@@ -109,7 +128,11 @@ public class App {
         //     System.out.println("Seu número não é divisível por 5");
         // }
         
-        /* Exercício 7 */
+//--------------------------------------------------------------------------------------------------------
+
+                    /* Exercício 7 */
+
+            //Valida os lados para formar um triângulo além de dizer se é quilátero, escaleno ou isóceles.
         
         // int l1, l2, l3;
         // System.out.println("Digite o tamanho dos lado do seu triângulo: ");
@@ -132,11 +155,16 @@ public class App {
         //     System.out.println("Os valores informados não formam um triângulo!");
         // }
 
-        /* Exercício 8 */
+//--------------------------------------------------------------------------------------------------------
+
+                    /* Exercício 8 */
 
 
+//--------------------------------------------------------------------------------------------------------
+        
+                    /* Exercício 9 */
 
-        /* Exercício 9 */
+            //Calcula a média e diz se foi aprovado.
 
         // int n1, n2, m;
         // System.out.println("Digite sua primeira nota: ");
@@ -149,8 +177,12 @@ public class App {
         //     System.out.println("Parabens, você foi aprovado!");
         // }
 
-        /* Exercicio 10 */
+//--------------------------------------------------------------------------------------------------------
+
+                    /* Exercicio 10 */
         
+            //Diz se foi reprovado.
+
         // int n1, n2, m;
         // System.out.println("Digite sua primeira nota: ");
         // n1 = sc.nextInt();
@@ -164,9 +196,11 @@ public class App {
         //     System.out.println("Você foi reprovado!");
         // }
 
+//--------------------------------------------------------------------------------------------------------
 
-        /* Exercício 11 */
+                    /* Exercício 11 */
 
+            //Verifica qual número é maior e se são par ou ímpar.
         
         // int n1, n2;
         // System.out.println("Digite o primeiro número:");
@@ -176,7 +210,7 @@ public class App {
         // if (n1 > n2) { 
         //     System.out.println("O primeiro número é maior que o segundo");
         // }else{  
-        //     System.out.println("O segundo número é maior que o segundo");
+        //     System.out.println("O segundo número é maior que o primeiro");
         // }
         // //verificação de números pares e ímpares do n1
         // if (n1 % 2 == 0) {
@@ -191,7 +225,11 @@ public class App {
         //     System.out.println("Seu segundo número é ímpar: "+n2);
         // }
 
-        /* Exercício 12 */
+//--------------------------------------------------------------------------------------------------------
+
+                    /* Exercício 12 */
+
+            //Menu de Escolha de pagamento.
 
         // String r;
 
@@ -215,7 +253,9 @@ public class App {
         //         break;
         // }
 
-        /* Exercício 13 */
+//--------------------------------------------------------------------------------------------------------
+
+                    /* Exercício 13 */
 
         
 

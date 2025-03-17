@@ -42,7 +42,6 @@ public class Testes {
         // p = km/m;
         // System.out.printf("Você deu %.0f passos",p);
 
-
         scan.close();
     }
 
