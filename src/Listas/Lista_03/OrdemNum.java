@@ -3,6 +3,9 @@ package Listas.Lista_03;
 import java.util.Scanner;
 
 public class OrdemNum {
+
+    //Ordena números e mostra a média deles.
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
