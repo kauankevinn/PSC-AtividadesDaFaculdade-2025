@@ -3,6 +3,9 @@ package Listas.Lista_03;
 import java.util.Scanner;
 
 public class CalcCirculo {
+
+    //Calcula o perímetro e área de um círculo, também o volume de uma esfera
+
     public static void main(String[] args) {
         
         Scanner sc = new Scanner(System.in);
@@ -14,7 +17,7 @@ public class CalcCirculo {
         opcao = sc.nextInt();
         System.out.println("Me informe o raio do círculo ou esfera: ");
         raio = sc.nextDouble();
-
+        
         switch (opcao) {
             case 1 :
                 double p = 2*pi*raio;

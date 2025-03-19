@@ -3,6 +3,9 @@ package Listas.Lista_03;
 import java.util.Scanner;
 
 public class Equacoes {
+
+    //Permite a soma, subtração, multiplicação e a elevação de um número por outro
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
