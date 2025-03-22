@@ -54,7 +54,6 @@ public class EXFixacao {
             //Verifica se o número é maior ou menor que 100.
 
         // double n1;
-
         // System.out.println("Digite um número: ");
         // n1 = sc.nextDouble();
         // if (n1 >= 100) {
