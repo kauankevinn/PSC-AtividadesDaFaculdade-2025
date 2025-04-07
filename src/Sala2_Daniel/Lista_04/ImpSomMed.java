@@ -4,6 +4,9 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class ImpSomMed {
+
+    // Faça um programa que leia 5 números e informe a soma e a média dos  números
+
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
             double[] numeros = new double[5];

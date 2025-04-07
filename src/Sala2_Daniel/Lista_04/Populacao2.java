@@ -3,6 +3,9 @@ package Sala2_Daniel.Lista_04;
 import java.util.Scanner;
 
 public class Populacao2 {
+
+    //Altere o programa anterior permitindo ao usuário informar as populações e as  taxas de crescimento iniciais. Valide a entrada e permita repetir a operação. 
+
     public static void main(String[] args) {
         try(Scanner sc = new Scanner(System.in)){
             double p1, p2, taxA, taxB;

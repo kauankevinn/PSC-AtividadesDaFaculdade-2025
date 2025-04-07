@@ -3,6 +3,9 @@ package Sala2_Daniel.Lista_04;
 import java.util.Scanner;
 
 public class Intervalo {
+
+    // Faça um programa que receba dois números inteiros e gere os números  inteiros que estão no intervalo compreendido por eles.
+
     public static void main(String[] args) {
         try(Scanner sc = new Scanner(System.in)){
 
