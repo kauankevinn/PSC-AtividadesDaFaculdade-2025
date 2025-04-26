@@ -42,6 +42,9 @@ public class Testes {
         // p = km/m;
         // System.out.printf("Você deu %.0f passos",p);
 
+        // int num = 4;
+        // System.out.println((num % 2 ) == 0? "É Par":"É Ímpar");
+
         scan.close();
     }
 
