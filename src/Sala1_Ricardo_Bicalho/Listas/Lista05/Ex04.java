@@ -3,6 +3,12 @@ package Sala1_Ricardo_Bicalho.Listas.Lista05;
 import java.util.Scanner;
 
 public class Ex04 {
+
+    /*Crie um algoritmo que leia o tamanho de três segmentos de reta. Analise seus comprimentos e diga se é possível formar um triângulo com essas retas. Matematicamente, para três segmentos formarem um triângulo, o comprimento de cada lado deve ser menor que a soma dos outros dois. Depois mostre e informe que tipo de triângulo:
+     - EQUILÁTERO: todos os lados iguais;
+     - ISÓSCELES: dois lados iguais;
+     - ESCALENO: todos os lados diferentes.
+    */
     public static void main(String[] args) {
         try(Scanner sc = new Scanner(System.in)){
             
